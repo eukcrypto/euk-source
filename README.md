@@ -1,7 +1,7 @@
 eUK integration/staging tree
 ================================
 
-http://www.euk.org
+http://www.e-ukcrypto.co.uk/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 eUK Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the eUK client sofware, see http://www.euk.org.
+the eUK client sofware, see http://www.e-ukcrypto.co.uk/
 
 License
 -------
